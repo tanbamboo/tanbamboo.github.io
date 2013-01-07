@@ -16,7 +16,7 @@ tags: [spring security, spring, java]
 
 暂时没有找到好的解决办法，可能需要采用其他方式解决。
 
---P.S--
+#### 后记
 
-@2012.06.02:
+于2013.01.06 &raquo; 
 迁移自[tanbamboo.iteye.com博客](http://tanbamboo.iteye.com/blog/199479)

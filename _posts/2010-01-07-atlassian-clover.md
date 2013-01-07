@@ -39,7 +39,7 @@ Clover使用方式有三种：
 
 小巧，方便，如果搭配Atlassian的JIRA, BAMBOO等产品一起使用，应该对开发效率提高不少吧，而且有利于提高代码质量。
 
---P.S--
+#### 后记
 
-@2012.06.02:
+于2013.01.06 &raquo; 
 迁移自[tanbamboo.blogspot.com博客](http://tanbamboo.blogspot.com/2010/01/atlassian-clover.html)

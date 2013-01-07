@@ -16,7 +16,9 @@ tags: [spring security, spring, java]
 
 由此可见，其实spring security在架构上还是和acegi一脉相承的，只是spring security在配置方面做了更多的magic处理，优点是：入门容易，配置内容更少；缺点是：增加了magic成分，也增加了查找错误、扩展的难度。
 
---P.S--
+#### 后记
 
-2012.06.02:
+于2013.01.06 &raquo; 
 迁移自[tanbamboo.iteye.com博客](http://tanbamboo.iteye.com/blog/199470)
+
+---

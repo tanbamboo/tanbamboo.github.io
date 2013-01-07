@@ -15,7 +15,7 @@ Dynamo Key Focus
 - opaque data persistent, accompanying keys which identify them
 -
 
---P.S--
+#### 后记
 
-@2012.06.02:
+于2013.01.06 &raquo; 
 迁移自[tanbamboo.blogspot.com博客](http://tanbamboo.blogspot.com/2010/01/nosql2amazon-dynamo.html)

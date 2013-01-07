@@ -67,7 +67,7 @@ MongoDB bridges the gap between key-value stores (which are fast and highly scal
 
 分布式特性、Replication、Fail-over、MapReduce这几个还是比较有价值的。
 
---P.S--
+#### 后记
 
-@2012.06.02:
+于2013.01.06 &raquo; 
 迁移自[tanbamboo.blogspot.com博客](http://tanbamboo.blogspot.com/2010/01/nosql1mongodb.html)

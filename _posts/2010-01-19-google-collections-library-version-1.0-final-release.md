@@ -23,11 +23,11 @@ In my opinion Google Collection will definitely improve your code, making it mor
 
 - references:
 
-http://bwinterberg.blogspot.com/2009/09/introduction-to-google-collections.html
+[http://bwinterberg.blogspot.com/2009/09/introduction-to-google-collections.html](http://bwinterberg.blogspot.com/2009/09/introduction-to-google-collections.html)
 
-http://blog.jayway.com/2009/10/22/google-collections/
+[http://blog.jayway.com/2009/10/22/google-collections/](http://blog.jayway.com/2009/10/22/google-collections/)
 
---P.S--
+#### 后记
 
-@2012.06.02:
+于2013.01.06 &raquo; 
 迁移自[tanbamboo.blogspot.com博客](http://tanbamboo.blogspot.com/2010/01/google-collections-library-version-10.html)
