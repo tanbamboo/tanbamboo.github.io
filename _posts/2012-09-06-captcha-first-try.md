@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Captcha初接触"
-description: ""
-category: [develop]
+tagline: ""
+categories: [develop]
 tags: [captcha, cage, recaptcha]
 ---
 {% include JB/setup %}
