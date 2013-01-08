@@ -10,7 +10,13 @@ tags: [hangzhou, social]
 Topic 3：SEDA与Java并行编程点滴
 PPT下载地址：[http://www.bluedavy.com/yuanzhuo/20100320/tanbamboo@DBAppSecurity.ppt](http://www.bluedavy.com/yuanzhuo/20100320/tanbamboo@DBAppSecurity.ppt)
 
+>update/2013.01.06<br>
+>貌似BlueDavy的博客网站已经搬家了，上面链接已经失效了，下面有Slideshare.net上的地址
+
+<div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/tanbamboo/sedajava" title="Seda与Java并行编程点滴" target="_blank">Seda与Java并行编程点滴</a> </strong> from <strong><a href="http://www.slideshare.net/tanbamboo" target="_blank">Benjamin Tan</a></strong> </div>
+
 Topicer：@tanbamboo
+
 Topic评价：SEDA是现在高性能服务器编程中的重要思想，tanbamboo同学分享了一个实际的SEDA的例子，会有助于SEDA思想的理解，在PPT的最后提到了coroutine的一个问题，coroutine只是用一个线程如何发挥多核优势，其实coroutine通常是使用cpu核数线程。
 
 这是我在2010年第一次杭州程序员交流会做的演讲，谢谢得到了一些朋友的支持。
