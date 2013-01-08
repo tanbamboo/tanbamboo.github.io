@@ -51,8 +51,29 @@
 						<address><span class="author fn n">{{ site.author.name }}</span></address>
 						<a href="http://github.com/{{ site.author.github }}/" rel="me">github.com/{{ site.author.github }}</a><br>
 						<a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">twitter.com/{{ site.author.twitter }}</a><br>
-						<a href="http://feeds.feedburner.com/{{ site.author.feedname }}">Subscribe to RSS Feed</a><br>
+						<a href="http://feeds.feedburner.com/{{ site.author.feedb }}">Subscribe to RSS Feed</a><br>
+						<a href="atom.xml">Subscribe to Atom Feed</a><br>
 				</div><!-- misc -->
+				<br>
+
+				<div class="search">
+					<h4>搜索本站</h4>
+					<!--Google Javascript版本站内搜索开始-->
+					<script type="text/javascript">
+						function googlesearch () {
+						var wq=document.getElementsByName("wq")[0].value;
+						var link="https://www.google.com/search?domains=tanbamboo.github.com&sitesearch=tanbamboo.github.com&q="+wq;
+						window.open(link); }
+					</script>
+					<input type="text" name="wq"/><input type="submit" onclick="javascript:googlesearch()" value="Search" />
+					<!--Google站内搜索结束-->
+					<br><small><font color="grey">Powered by Google</small></font>
+				</div>
+				<br>
+
+				<div class="recent">
+					<h4>近期文章</h4>
+				</div>
 				<br>
 
 				<div class="links">
@@ -65,14 +86,17 @@
 
 				<div class="links">
 					<h4>友情链接</h4>
-					<ul>
-						<li class="contact"><a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">twitter.com/{{ site.author.twitter }}</a></li>						
-					</ul>
+					<a href="#" rel="link1">Link1</a><br>
+					<a href="#" rel="link2">Link2</a><br>
+					<a href="#" rel="link3">Link3</a><br>
 				</div>
+				<br>
 
 				<p class="licence">
+					<small><font color="grey">
 					Theme: <a href="http://layouts-the.me">the_minimum</a><br>
 					Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> & <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a>.
+					</font></small>
 				</p>
 			</div><!-- unit-foot-inner -->
 		</div><!-- unit-foot -->
