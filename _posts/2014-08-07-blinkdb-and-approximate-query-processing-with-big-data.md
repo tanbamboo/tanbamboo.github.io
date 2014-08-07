@@ -2,7 +2,7 @@
 layout: post
 title: "BlinkDB and Approximate Query Processing with Big Data"
 description: ""
-category: 
+category: [hadoop]
 tags: [spark, blinkdb, hadoop]
 ---
 {% include JB/setup %}
@@ -23,10 +23,13 @@ RDD是一个很好的概念，也借用了一下。
 
 BlinkDB的特点在于提供了查询的时间约束、误差约束、可信度约束。在这些查询约束下，选择最适合的样本查询处理。
 
-BlinkDB的效率号称是10-150x，这个太牛了。
+BlinkDB的效率号称是10-150x，这个太牛了，特别是在7.5T这样越大的数据集上，即使Spark的缓存也不好使了。
 
 BlinkDB的主要组件，摘自[Blink and It’s Done: Interactive Queries on Very Large Data](http://www.cs.berkeley.edu/~sameerag/blinkdb_vldb12_demo.pdf)
 
 BlinkDB adds two major components: (1) a component to create and maintain samples, (2) a component for predicting the query response time and accuracy and selecting a sample that best satisfies given constraints.
 
-# 未完待续
+# BlinkDB参考资料
+[BlinkDB官网](http://blinkdb.org)
+[Blink and It’s Done: Interactive Queries on Very Large Data](http://www.cs.berkeley.edu/~sameerag/blinkdb_vldb12_demo.pdf)
+[BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://www.cs.berkeley.edu/~sameerag/blinkdb_eurosys13.pdf)
