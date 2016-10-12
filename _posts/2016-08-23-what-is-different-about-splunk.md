@@ -1,3 +1,12 @@
+---
+layout: post
+title: "What is different about Splunk?"
+description: ""
+category: [siem]
+tags: [splunk]
+---
+{% include JB/setup %}
+
 # What is different about Splunk?
 
 Let's talk about some different things about **splunk**.

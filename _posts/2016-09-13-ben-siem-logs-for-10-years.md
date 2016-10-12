@@ -1,3 +1,12 @@
+---
+layout: post
+title: "BEN的SIEM七年日志"
+tagline: ""
+categories : [siem]
+tags: [siem, arcsight, splunk, log, analytics]
+---
+{% include JB/setup %}
+
 # BEN的SIEM七年日志
 
 ## 自序

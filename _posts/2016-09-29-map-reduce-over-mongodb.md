@@ -1,6 +1,12 @@
-Map-Reduce over MongoDB
+---
+layout: post
+title: "Map-Reduce over MongoDB"
+tagline: ""
+categories : [nosql]
+tags: [mongodb, nosql, mapreduce]
+---
+{% include JB/setup %}
 
-Writed by: Benjamin Tan(@tanbamboo) at: 2016-09-29
 
 [TOC]
 

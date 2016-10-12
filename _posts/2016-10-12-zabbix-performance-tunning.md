@@ -1,4 +1,11 @@
-Zabbix Performance Tuning
+---
+layout: post
+title: "Zabbix Performance Tuning"
+tagline: ""
+categories : [tuning]
+tags: [zabbix, mysql]
+---
+{% include JB/setup %}
 
 [TOC]
 
@@ -18,8 +25,6 @@ Zabbix Performance Tuning
 | 数据类型       | 文本，字符串                          | 数值                 |
 
 Fig 1: 	影响性能因素
-
-
 
 
 1. 监控项类型,值类型,SNMPv3,触发器数量和触发器类型
@@ -60,13 +65,17 @@ watch -tn 0.2 'ps -f -C zabbix_proxy -C zabbix_agentd'
 ```
 
 To show only history syncer processes:
+
 ```shell
 watch -tn 0.2 'ps -fC zabbix_server | grep history'
 ```
+
 The ps command produces a wide output (approximately 190 columns) as some activity messages are long. If your terminal has less than 190 columns of text you can try
+
 ```shell
 watch -tn 0.2 'ps -o cmd -C zabbix_server -C zabbix_proxy -C zabbix_agentd'
 ```
+
 to display only commandlines without UID, PID, start time etc.
 
 top command also can be used for observing Zabbix performance. Pressing 'c' key in top shows processes with their commandlines. In our tests on Linux top and atop correctly displayed changing activities of Zabbix processes, but htop was not displaying changing activities.

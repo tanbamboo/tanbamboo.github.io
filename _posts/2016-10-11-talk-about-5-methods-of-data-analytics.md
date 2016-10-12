@@ -1,8 +1,13 @@
-闲扯数据分析的五种方式
+---
+layout: post
+title: "闲扯数据分析的五种方式"
+tagline: ""
+categories : [analytics]
+tags: [olap, cube, map-reduce, elasticsearch, tsd]
+---
+{% include JB/setup %}
 
 [TOC]
-
-
 
 # MapReduce查询引擎
 

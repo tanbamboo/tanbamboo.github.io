@@ -1,4 +1,11 @@
-重构一个遗留项目
+---
+layout: post
+title: "重构一个遗留项目"
+tagline: ""
+categories : [java]
+tags: [codestyle, refactor, architecture]
+---
+{% include JB/setup %}
 
 [TOC]
 

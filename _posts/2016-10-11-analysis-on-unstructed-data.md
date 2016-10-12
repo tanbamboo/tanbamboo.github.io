@@ -1,4 +1,11 @@
-非结构化数据上进行结构化查询的方法
+---
+layout: post
+title: "非结构化数据上进行结构化查询的方法"
+tagline: ""
+categories : [bigdata]
+tags: [unstructure, query-engine]
+---
+{% include JB/setup %}
 
 [TOC]
 

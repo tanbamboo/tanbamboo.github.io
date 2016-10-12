@@ -1,4 +1,11 @@
-升级MongoDB到WiredTiger引擎
+---
+layout: post
+title: "MongoDB的WiredTiger引擎"
+tagline: ""
+categories : [nosql]
+tags: [mongodb]
+---
+{% include JB/setup %}
 
 [TOC]
 

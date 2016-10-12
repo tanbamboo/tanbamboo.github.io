@@ -1,4 +1,13 @@
-Howto Analysis JVM GC Log
+---
+layout: post
+title: "Howto Analysis JVM GC Log"
+tagline: ""
+categories : [java]
+tags: [jvm, gc, log]
+---
+{% include JB/setup %}
+
+
 
 [TOC]
 
