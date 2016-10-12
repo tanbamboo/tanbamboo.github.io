@@ -7,8 +7,6 @@ tags: [jvm, gc, log]
 ---
 {% include JB/setup %}
 
-
-
 [TOC]
 
 # Reference
