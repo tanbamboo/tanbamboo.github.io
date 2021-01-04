@@ -78,11 +78,9 @@ tags: [cybersecurity, predictions, siem, ueba, splunk, soar]
 
 
 ### Others
-The Cybersecurity Challenges of 2021, Predicted (and How to Prepare for Them)
-https://cloud.vmware.com/community/2020/12/01/cybersecurity-challenges-2021-predicted-prepare/
+[The Cybersecurity Challenges of 2021, Predicted (and How to Prepare for Them)](https://cloud.vmware.com/community/2020/12/01/cybersecurity-challenges-2021-predicted-prepare/)
 
-2021 predictions: The year of the cloud
-https://www.capgemini.com/2020/12/2021-the-year-of-the-cloud/
+[2021 predictions: The year of the cloud](https://www.capgemini.com/2020/12/2021-the-year-of-the-cloud/)
 
 
 
